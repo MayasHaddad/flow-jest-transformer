@@ -1,0 +1,16 @@
+{
+  "name": "flow-jest-transformer",
+  "version": "1.0.0",
+  "description": "transform .js.flow files with babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mayas Haddad",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.24.1",
+    "babel-preset-jest": "^19.0.0"
+  }
+}
